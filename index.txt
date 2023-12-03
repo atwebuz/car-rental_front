@@ -117,7 +117,7 @@
                                
                                 <div class="header-top-hidden-contacts-container">
                                     <div class="mobile-menu-email">
-                                        <a href="mailto:" id="mail-to-copy2">tashkentdrive@gmail.com</a>
+                                        <a href="mailto:" id="mail-to-copy2">carrentavtoprokat@gmail.com</a>
                                     </div>
                                     <div class="mobile-menu-massagers">
                                         <div class="whatsapp">
@@ -178,12 +178,14 @@
                         <div class="header-bottom-inner">
                             <a href="https://car-rent.ua" class=" logo">
                                 <img src="https://car-rent.ua/wp-content/themes/somyh/img/car_rent_logo.png" alt="Logo">
-                           
+                            </a><a href="/shop" class="custom-btn-blue park-auto-link">
+                                ПАРК АВТО </a>
                             <div class="tel-box">
-                                <a href="tel:+998977278255">+998 <span>97 727 82 55</span></a>
-                                <a href="tel:+998977278255">+998 <span>97 727 82 55</span></a>
+                                <a href="tel:+38 096700 34 34">+38 096 <span>700 34 34</span></a>
+                                <a href="tel:+38 095700 34 34">+38 095 <span>700 34 34</span></a>
                             </div>
-                        
+                            <button class="custom-btn-white open-popup" data-src="#callme">Заказать
+                                консультацию</button>
                         </div>
                     </div>
                 </div>
@@ -476,7 +478,163 @@
             </div>
         </section>
     </div>
-   
+    <!-- <section class="what"
+        style="background: url(https://car-rent.ua/wp-content/uploads/2021/09/preimushesta-bg.jpg) no-repeat center center / cover;">
+        <div class="container">
+            <div class="row">
+                <div class="col">
+                    <div class="what-inner">
+                        <div class="what-l">
+                            В чем наше преимущество?</div>
+                        <div class="what-r">
+                            <div class="what-card">
+                                <div class="what-card-title">
+                                    <img src="https://car-rent.ua/wp-content/uploads/2021/07/car.png" alt=""
+                                        loading="lazy">
+                                    <h3>ПОДБОР И ДОСТАВКА АВТО</h3>
+                                </div>
+                                <div class="what-card-text">
+                                    Мы предлагаем клиентам широкий выбор автомобилей под любой запрос и бюджет с
+                                    доставкой в любую точку Украины.</div>
+                            </div>
+                            <div class="what-card">
+                                <div class="what-card-title">
+                                    <img src="https://car-rent.ua/wp-content/uploads/2021/07/steering-wheel.png" alt=""
+                                        loading="lazy">
+                                    <h3>ЛИЧНЫЙ МЕНЕДЖЕР</h3>
+                                </div>
+                                <div class="what-card-text">
+                                    Мы предлагаем услугу личного круглосуточного менеджера, чтобы сделать поездки
+                                    максимально комфортными и безопасными.</div>
+                            </div>
+                            <div class="what-card">
+                                <div class="what-card-title">
+                                    <img src="https://car-rent.ua/wp-content/uploads/2021/07/manager.png" alt=""
+                                        loading="lazy">
+                                    <h3>АВТО С ЛИЧНЫМ ВОДИТЕЛЕМ</h3>
+                                </div>
+                                <div class="what-card-text">
+                                    Личный водитель — это удобно! Наши водители имеют многолетний опыт вождения, хорошо
+                                    ориентируются в Киеве и в других городах страны.</div>
+                            </div>
+                            <div class="what-card">
+                                <div class="what-card-title">
+                                    <img src="https://car-rent.ua/wp-content/uploads/2021/07/car-key.png" alt=""
+                                        loading="lazy">
+                                    <h3>АРЕНДА АВТО БЕЗ ЗАЛОГА</h3>
+                                </div>
+                                <div class="what-card-text">
+                                    Мы понимаем, что не всегда имеется при себе залоговая сумма в полном объеме, поэтому
+                                    предлагаем аренду автомобилей без залога.</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    -->
+    <!-- <section class="rent">
+        <div class="container">
+            <div class="row">
+                <div class="col">
+                    <h2 class="sec-title">
+                        Аренда авто в Киеве</h2>
+                    <div class="rent-con-wrapper">
+                        <div class="rent-con-1">
+                            <p>Сегодня уже невозможно представить себе комфортное передвижение по мегаполису без
+                                использования автомобиля, который может быть не только личным, но и арендованным на
+                                определенный промежуток времени. Такой вид услуг как аренда транспортного средства
+                                особенно актуален в столице, в которой кроме местных жителей, ежедневного находится
+                                большое число туристов и бизнесменов. Гости крупных городов имеют возможность
+                                воспользоваться посуточной либо долгосрочной арендой автомобилей любого класса и
+                                одновременно решать множество разноплановых задач.</p>
+                        </div>
+                        <div class="rent-con-img">
+                            <img src="https://car-rent.ua/wp-content/uploads/2021/09/o-nas-car-nazda.jpg" alt=""
+                                loading="lazy">
+                        </div>
+                    </div>
+                    <div class="rent-con-2">
+                        <h2>Особенности аренды</h2>
+                        <p>Прокат транспортных средств можно заказать как с водителем, так и без него. Услуга аренда
+                            авто в Киеве предоставляется клиентам без выходных и праздничных дней, поэтому выбрать и
+                            оформить необходимую машину можно в любое удобное время. Все предлагаемые транспортные
+                            средства находятся в исправном состоянии и обязательно проходят регулярный технический
+                            осмотр.</p>
+                    </div>
+                    <div class="rent-bnf">
+                        <div class="rent-bnf-title">
+                            Сервис прокат авто обеспечивает клиентам следующие возможности:</div>
+                        <div class="rent-bnf-box">
+                            <div class="rent-bnf-card">
+                                <div class="rent-bnf-num">1</div>
+                                <div class="rent-bnf-text">
+                                    Беспрепятственное передвижение по городу и его окрестностям;</div>
+                            </div>
+                            <div class="rent-bnf-card">
+                                <div class="rent-bnf-num">2</div>
+                                <div class="rent-bnf-text">
+                                    Организацию деловых и экскурсионных поездок;</div>
+                            </div>
+                            <div class="rent-bnf-card">
+                                <div class="rent-bnf-num">3</div>
+                                <div class="rent-bnf-text">
+                                    Трансфер бизнес-партнеров;</div>
+                            </div>
+                            <div class="rent-bnf-card">
+                                <div class="rent-bnf-num">4</div>
+                                <div class="rent-bnf-text">
+                                    Удобную транспортировку личных вещей и небольших грузов;</div>
+                            </div>
+                            <div class="rent-bnf-card">
+                                <div class="rent-bnf-num">5</div>
+                                <div class="rent-bnf-text">
+                                    Возможность тестирования модели перед покупкой;</div>
+                            </div>
+                        </div>
+                        <div class="text-arenda-avto">
+                            <p class="text-arenda-avto__text">
+                            <h2 class="sec-title">
+                                Преимущества проката Car Rent</h2>
+                            <div class="rent-con-wrapper">
+                                <div class="rent-con-1">
+                                    <p class="text">В автопарке компании есть бюджетные авто в аренду, а также
+                                        автомобили представительского класса, с помощью которых можно подчеркнуть свой
+                                        социальный статус. Клиентам предлагаются машины на прокат на свадьбу, а также
+                                        для других важных мероприятий и торжеств. Все транспортные средства полностью
+                                        застрахованы и имеют всю необходимую для аренды документацию. Подача и возврат
+                                        автомобиля возможен в любой точке Украины в точно оговоренное с заказчиком
+                                        время.</p>
+                                    <p class="text">Взять машину в аренду можно вместе с GPS-навигатором и WiFi. Для
+                                        водителей и пассажиров с детьми предлагается такая дополнительная услуга как
+                                        прокат детского кресла. При возникновении форс-мажорных ситуаций на дорогах или
+                                        во время длительного путешествия сотрудники автопроката всегда готовы оказать
+                                        квалифицированную и разноплановую помощь на дорогах.</p>
+                                </div>
+                            </div>
+                            <br>
+                            <div class="rent-con-2">
+                                <h2>Доступность услуги</h2>
+                                <p class="text">Как посуточная, так и долгосрочная аренда автомобилей возможна без
+                                    залога. Стоимость данного вида услуг достаточно демократичная, поэтому привлекает
+                                    большое число клиентов. Узнать подробности бронирования транспортных средств можно
+                                    позвонив в круглосуточный call-центр.</p>
+                                <p class="text">Арендовать машину в Киеве можно как на пару часов, так и на неделю или
+                                    на несколько месяцев. От заказчика требуется наличие водительского удостоверения и
+                                    водительского стажа не менее двух лет. Для заключения договора аренды необходимо
+                                    будет предоставить паспорт и ИНН.</p>
+                            </div>
+                            </p>
+                        </div>
+                        <div class="custom-btn-wrapper">
+                            <button class="custom-btn-blue" id="text-arenda-avto-controller">Подробнее</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section> -->
     <section class="ask">
         <div class="container">
             <div class="row">
@@ -528,7 +686,8 @@
                         <div class="beefup__head">
                             Какие существуют способы оплаты? <button class="beefup-btn"></button></div>
                         <div class="beefup__body">
-                            <p>Оплатить можно: Наличными, Терминалом или же по банковским реквизитам.</p>
+                            <p>Оплатить можно: Наличными, Терминалом или же по банковским реквизитам. Можем выставлять
+                                счет для юридических лиц.</p>
                         </div>
                     </div>
                     <div class="beefup" data-aos="fade-right">
@@ -567,7 +726,8 @@
     </section>
     <footer class="main-footer" id="main-footer" data-aos="fade">
         <div class="binct-phone">
-            <a href="tel:+998977278255">+998 <span>97 727 82 55</span></a>        </div>
+            <a href="tel:+38 096700 34 34">+38 096 700 34 34</a>
+        </div>
         <div class="footer-top">
             <div class="container">
                 <div class="row">
@@ -575,15 +735,18 @@
                         <div class="footer-top-inner">
                             <div class="tel-box">
                                 <a href="tel:"> <span></span></a>
-                                <a href="tel:+998977278255">+998 <span>97 727 82 55</span></a>
-                                <a href="tel:+998977278255">+998 <span>97 727 82 55</span></a>
+                                <a href="tel:+38 096700 34 34">+38 096 <span>700 34 34</span></a>
+                                <a href="tel:+38 095700 34 34">+38 095 <span>700 34 34</span></a>
                             </div>
                             <div class="email-box">
-                                <a href="mailto:" id="mail-to-copy">tashkentdrive@gmail.com</a>
+                                <a href="mailto:" id="mail-to-copy">carrentavtoprokat@gmail.com</a>
                                 <button id="copy-mail" name="copy_pre" data-copy-from="mail-to-copy"
                                     onclick="copytext('#mail-to-copy')">Скопировать e-mail</button>
                             </div>
-                           
+                            <div class="shedule-box">
+                                <span>Пн-Вс 10:00–18:00</span>
+                                <span>Вс 10:00–17:30</span>
+                            </div>
                             <div class="footer-soc">
                                 <li><a href="https://instagram.com/car_rent.ua?utm_medium=copy_link"
                                         class="social-links__item" target="_blank"><img
@@ -616,8 +779,8 @@
             <div class="call-form-wrapper">
                 <div class="tel-box" style="margin-bottom: 30px">
                     <a href="tel:"> <span></span></a>
-                    <a href="tel:+998977278255">+998 <span>97 727 82 55</span></a>
-                    <a href="tel:+998977278255">+998 <span>97 727 82 55</span></a>
+                    <a href="tel:+38 096700 34 34">+38 096 <span>700 34 34</span></a>
+                    <a href="tel:+38 095700 34 34">+38 095 <span>700 34 34</span></a>
                 </div>
                 <form id="form1" action="#">
                     <div class="form-title">Заказать консультацию</div>
