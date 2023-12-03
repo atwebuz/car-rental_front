@@ -1,0 +1,1444 @@
+Uri: https://car-rent.ua/
+File Name: C:\Users\user\Desktop\car-rent.ua\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/?add-to-cart=1757
+File Name: C:\Users\user\Desktop\car-rent.ua\index-3.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/?add-to-cart=3885
+File Name: C:\Users\user\Desktop\car-rent.ua\index-1.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/?add-to-cart=4308
+File Name: C:\Users\user\Desktop\car-rent.ua\index-2.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/?add-to-cart=5056
+File Name: C:\Users\user\Desktop\car-rent.ua\index-4.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/akczii/
+File Name: C:\Users\user\Desktop\car-rent.ua\akczii\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/dlya-partnerov/
+File Name: C:\Users\user\Desktop\car-rent.ua\dlya-partnerov\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/en/
+File Name: C:\Users\user\Desktop\car-rent.ua\en\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/klass_avto/biznes-klass/
+File Name: C:\Users\user\Desktop\car-rent.ua\klass_avto\biznes-klass\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/klass_avto/ekonom-klass/
+File Name: C:\Users\user\Desktop\car-rent.ua\klass_avto\ekonom-klass\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/klass_avto/mikroavtobus/
+File Name: C:\Users\user\Desktop\car-rent.ua\klass_avto\mikroavtobus\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/klass_avto/sredniy-klass/
+File Name: C:\Users\user\Desktop\car-rent.ua\klass_avto\sredniy-klass\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/klass_avto/vnedorozhnik/
+File Name: C:\Users\user\Desktop\car-rent.ua\klass_avto\vnedorozhnik\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/kontakty/
+File Name: C:\Users\user\Desktop\car-rent.ua\kontakty\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/korporativnym-klientam/
+File Name: C:\Users\user\Desktop\car-rent.ua\korporativnym-klientam\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/korporativnym-klientam/arenda-avto-dlya-volonterskih-organizaczij/
+File Name: C:\Users\user\Desktop\car-rent.ua\korporativnym-klientam\arenda-avto-dlya-volonterskih-organizaczij\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/korporativnym-klientam/arenda-avto-na-tendernyh-usloviyah/
+File Name: C:\Users\user\Desktop\car-rent.ua\korporativnym-klientam\arenda-avto-na-tendernyh-usloviyah\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/korporativnym-klientam/arenda-avtomobilej-dlya-posolstv/
+File Name: C:\Users\user\Desktop\car-rent.ua\korporativnym-klientam\arenda-avtomobilej-dlya-posolstv\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/korporativnym-klientam/arenda-dlya-yuridicheskih-licz/
+File Name: C:\Users\user\Desktop\car-rent.ua\korporativnym-klientam\arenda-dlya-yuridicheskih-licz\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/korporativnym-klientam/arenda-na-dlitelnyj-period/
+File Name: C:\Users\user\Desktop\car-rent.ua\korporativnym-klientam\arenda-na-dlitelnyj-period\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/marki-avto/audi/
+File Name: C:\Users\user\Desktop\car-rent.ua\marki-avto\audi\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/marki-avto/bmw/
+File Name: C:\Users\user\Desktop\car-rent.ua\marki-avto\bmw\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/marki-avto/chevrolet/
+File Name: C:\Users\user\Desktop\car-rent.ua\marki-avto\chevrolet\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/marki-avto/ford/
+File Name: C:\Users\user\Desktop\car-rent.ua\marki-avto\ford\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/marki-avto/honda/
+File Name: C:\Users\user\Desktop\car-rent.ua\marki-avto\honda\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/marki-avto/hyundai/
+File Name: C:\Users\user\Desktop\car-rent.ua\marki-avto\hyundai\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/marki-avto/infiniti/
+File Name: C:\Users\user\Desktop\car-rent.ua\marki-avto\infiniti\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/marki-avto/jaguar/
+File Name: C:\Users\user\Desktop\car-rent.ua\marki-avto\jaguar\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/marki-avto/jeep/
+File Name: C:\Users\user\Desktop\car-rent.ua\marki-avto\jeep\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/marki-avto/kia/
+File Name: C:\Users\user\Desktop\car-rent.ua\marki-avto\kia\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/marki-avto/lexus/
+File Name: C:\Users\user\Desktop\car-rent.ua\marki-avto\lexus\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/marki-avto/maserati/
+File Name: C:\Users\user\Desktop\car-rent.ua\marki-avto\maserati\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/marki-avto/mazda/
+File Name: C:\Users\user\Desktop\car-rent.ua\marki-avto\mazda\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/marki-avto/mercedes/
+File Name: C:\Users\user\Desktop\car-rent.ua\marki-avto\mercedes\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/marki-avto/mitsubishi/
+File Name: C:\Users\user\Desktop\car-rent.ua\marki-avto\mitsubishi\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/marki-avto/nissan/
+File Name: C:\Users\user\Desktop\car-rent.ua\marki-avto\nissan\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/marki-avto/opel/
+File Name: C:\Users\user\Desktop\car-rent.ua\marki-avto\opel\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/marki-avto/ravon/
+File Name: C:\Users\user\Desktop\car-rent.ua\marki-avto\ravon\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/marki-avto/tesla/
+File Name: C:\Users\user\Desktop\car-rent.ua\marki-avto\tesla\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/marki-avto/toyota/
+File Name: C:\Users\user\Desktop\car-rent.ua\marki-avto\toyota\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/marki-avto/volkswagen/
+File Name: C:\Users\user\Desktop\car-rent.ua\marki-avto\volkswagen\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/marki-avto/volvo/
+File Name: C:\Users\user\Desktop\car-rent.ua\marki-avto\volvo\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/news/
+File Name: C:\Users\user\Desktop\car-rent.ua\news\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/otzyvy-nashih-klientov/
+File Name: C:\Users\user\Desktop\car-rent.ua\otzyvy-nashih-klientov\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/politika-konfidenczialnosti/
+File Name: C:\Users\user\Desktop\car-rent.ua\politika-konfidenczialnosti\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/product-category/arenda-avto-s-pravom-vykupa/
+File Name: C:\Users\user\Desktop\car-rent.ua\product-category\arenda-avto-s-pravom-vykupa\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/product-category/chernovtsy/
+File Name: C:\Users\user\Desktop\car-rent.ua\product-category\chernovtsy\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/product-category/dnepr/
+File Name: C:\Users\user\Desktop\car-rent.ua\product-category\dnepr\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/product-category/harkov/
+File Name: C:\Users\user\Desktop\car-rent.ua\product-category\harkov\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/product-category/ivano-frankovsk/
+File Name: C:\Users\user\Desktop\car-rent.ua\product-category\ivano-frankovsk\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/product-category/kiev/
+File Name: C:\Users\user\Desktop\car-rent.ua\product-category\kiev\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/product-category/lvov/
+File Name: C:\Users\user\Desktop\car-rent.ua\product-category\lvov\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/product-category/odessa/
+File Name: C:\Users\user\Desktop\car-rent.ua\product-category\odessa\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/product-category/ternopol/
+File Name: C:\Users\user\Desktop\car-rent.ua\product-category\ternopol\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/product-category/vinnitsa/
+File Name: C:\Users\user\Desktop\car-rent.ua\product-category\vinnitsa\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/product-category/zhitomir/
+File Name: C:\Users\user\Desktop\car-rent.ua\product-category\zhitomir\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/product/audi-a4/
+File Name: C:\Users\user\Desktop\car-rent.ua\product\audi-a4\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/product/audi-a6/
+File Name: C:\Users\user\Desktop\car-rent.ua\product\audi-a6\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/product/audi-a8-new/
+File Name: C:\Users\user\Desktop\car-rent.ua\product\audi-a8-new\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/product/audi-q5/
+File Name: C:\Users\user\Desktop\car-rent.ua\product\audi-q5\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/product/bmw-330-2/
+File Name: C:\Users\user\Desktop\car-rent.ua\product\bmw-330-2\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/product/chevrolet-malibu/
+File Name: C:\Users\user\Desktop\car-rent.ua\product\chevrolet-malibu\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/product/chevrolet-spark/
+File Name: C:\Users\user\Desktop\car-rent.ua\product\chevrolet-spark\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/product/ford-fiesta/
+File Name: C:\Users\user\Desktop\car-rent.ua\product\ford-fiesta\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/product/ford-focus-4/
+File Name: C:\Users\user\Desktop\car-rent.ua\product\ford-focus-4\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/product/ford-focus/
+File Name: C:\Users\user\Desktop\car-rent.ua\product\ford-focus\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/product/ford-fusion/
+File Name: C:\Users\user\Desktop\car-rent.ua\product\ford-fusion\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/product/ford-kuga/
+File Name: C:\Users\user\Desktop\car-rent.ua\product\ford-kuga\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/product/honda-accord-sport-new-2/
+File Name: C:\Users\user\Desktop\car-rent.ua\product\honda-accord-sport-new-2\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/product/honda-civic-coupe/
+File Name: C:\Users\user\Desktop\car-rent.ua\product\honda-civic-coupe\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/product/honda-civic/
+File Name: C:\Users\user\Desktop\car-rent.ua\product\honda-civic\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/product/hyundai-tucson/
+File Name: C:\Users\user\Desktop\car-rent.ua\product\hyundai-tucson\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/product/infiniti-q60/
+File Name: C:\Users\user\Desktop\car-rent.ua\product\infiniti-q60\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/product/jaguar-i-pace/
+File Name: C:\Users\user\Desktop\car-rent.ua\product\jaguar-i-pace\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/product/kia-optima-4/
+File Name: C:\Users\user\Desktop\car-rent.ua\product\kia-optima-4\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/product/kia-optima-new/
+File Name: C:\Users\user\Desktop\car-rent.ua\product\kia-optima-new\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/product/kia-sportage-2017/
+File Name: C:\Users\user\Desktop\car-rent.ua\product\kia-sportage-2017\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/product/kia-sportage-2021/
+File Name: C:\Users\user\Desktop\car-rent.ua\product\kia-sportage-2021\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/product/lexus-rx350l/
+File Name: C:\Users\user\Desktop\car-rent.ua\product\lexus-rx350l\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/product/maserati-ghibli/
+File Name: C:\Users\user\Desktop\car-rent.ua\product\maserati-ghibli\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/product/mazda-3-touring/
+File Name: C:\Users\user\Desktop\car-rent.ua\product\mazda-3-touring\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/product/mazda-6/
+File Name: C:\Users\user\Desktop\car-rent.ua\product\mazda-6\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/product/mercedes-benz-g63-amg/
+File Name: C:\Users\user\Desktop\car-rent.ua\product\mercedes-benz-g63-amg\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/product/mercedes-benz-s63-coupe/
+File Name: C:\Users\user\Desktop\car-rent.ua\product\mercedes-benz-s63-coupe\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/product/mitsubishi-outlander/
+File Name: C:\Users\user\Desktop\car-rent.ua\product\mitsubishi-outlander\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/product/nissan-altima/
+File Name: C:\Users\user\Desktop\car-rent.ua\product\nissan-altima\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/product/nissan-roque-sport/
+File Name: C:\Users\user\Desktop\car-rent.ua\product\nissan-roque-sport\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/product/opel-astra/
+File Name: C:\Users\user\Desktop\car-rent.ua\product\opel-astra\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/product/ravon-r4/
+File Name: C:\Users\user\Desktop\car-rent.ua\product\ravon-r4\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/product/renault-logan/
+File Name: C:\Users\user\Desktop\car-rent.ua\product\renault-logan\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/product/tesla-model-3/
+File Name: C:\Users\user\Desktop\car-rent.ua\product\tesla-model-3\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/product/toyota-camry-70/
+File Name: C:\Users\user\Desktop\car-rent.ua\product\toyota-camry-70\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/product/toyota-camry-hybrid/
+File Name: C:\Users\user\Desktop\car-rent.ua\product\toyota-camry-hybrid\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/product/toyota-rav4-hybrid/
+File Name: C:\Users\user\Desktop\car-rent.ua\product\toyota-rav4-hybrid\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/product/toyota-rav4/
+File Name: C:\Users\user\Desktop\car-rent.ua\product\toyota-rav4\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/product/volkswagen-atlas-se/
+File Name: C:\Users\user\Desktop\car-rent.ua\product\volkswagen-atlas-se\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/product/volkswagen-atlas-sel-2019/
+File Name: C:\Users\user\Desktop\car-rent.ua\product\volkswagen-atlas-sel-2019\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/product/volkswagen-jetta-4/
+File Name: C:\Users\user\Desktop\car-rent.ua\product\volkswagen-jetta-4\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/product/volkswagen-jetta-s-r-line/
+File Name: C:\Users\user\Desktop\car-rent.ua\product\volkswagen-jetta-s-r-line\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/product/volkswagen-passat-b8/
+File Name: C:\Users\user\Desktop\car-rent.ua\product\volkswagen-passat-b8\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/product/volkswagen-passat-se/
+File Name: C:\Users\user\Desktop\car-rent.ua\product\volkswagen-passat-se\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/product/volkswagen-t6-multivan/
+File Name: C:\Users\user\Desktop\car-rent.ua\product\volkswagen-t6-multivan\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/product/volkswagen-tiguan-sel/
+File Name: C:\Users\user\Desktop\car-rent.ua\product\volkswagen-tiguan-sel\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/product/volkswagen-tiguan/
+File Name: C:\Users\user\Desktop\car-rent.ua\product\volkswagen-tiguan\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/product/volvo-s60/
+File Name: C:\Users\user\Desktop\car-rent.ua\product\volvo-s60\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/shop/
+File Name: C:\Users\user\Desktop\car-rent.ua\shop\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/uk/
+File Name: C:\Users\user\Desktop\car-rent.ua\uk\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/uk/aktsiyi/
+File Name: C:\Users\user\Desktop\car-rent.ua\uk\aktsiyi\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/uk/dlya-partneriv/
+File Name: C:\Users\user\Desktop\car-rent.ua\uk\dlya-partneriv\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/uk/kontakti/
+File Name: C:\Users\user\Desktop\car-rent.ua\uk\kontakti\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/uk/korporatyvnym-klientam/
+File Name: C:\Users\user\Desktop\car-rent.ua\uk\korporatyvnym-klientam\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/uk/korporatyvnym-klientam/orenda-avto-dlya-posolstv/
+File Name: C:\Users\user\Desktop\car-rent.ua\uk\korporatyvnym-klientam\orenda-avto-dlya-posolstv\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/uk/korporatyvnym-klientam/orenda-avto-dlya-volonterskyh-organizaczij/
+File Name: C:\Users\user\Desktop\car-rent.ua\uk\korporatyvnym-klientam\orenda-avto-dlya-volonterskyh-organizaczij\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/uk/korporatyvnym-klientam/orenda-avto-na-tendernyh-umovah/
+File Name: C:\Users\user\Desktop\car-rent.ua\uk\korporatyvnym-klientam\orenda-avto-na-tendernyh-umovah\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/uk/korporatyvnym-klientam/orenda-dlya-yurydychnyh-osib/
+File Name: C:\Users\user\Desktop\car-rent.ua\uk\korporatyvnym-klientam\orenda-dlya-yurydychnyh-osib\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/uk/korporatyvnym-klientam/orenda-na-tryvalyj-period/
+File Name: C:\Users\user\Desktop\car-rent.ua\uk\korporatyvnym-klientam\orenda-na-tryvalyj-period\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/uk/marki-avto/audi-uk/
+File Name: C:\Users\user\Desktop\car-rent.ua\uk\marki-avto\audi-uk\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/uk/marki-avto/bmw-ua/
+File Name: C:\Users\user\Desktop\car-rent.ua\uk\marki-avto\bmw-ua\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/uk/marki-avto/chevrolet-uk/
+File Name: C:\Users\user\Desktop\car-rent.ua\uk\marki-avto\chevrolet-uk\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/uk/marki-avto/hyundai-ua/
+File Name: C:\Users\user\Desktop\car-rent.ua\uk\marki-avto\hyundai-ua\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/uk/marki-avto/infiniti-uk/
+File Name: C:\Users\user\Desktop\car-rent.ua\uk\marki-avto\infiniti-uk\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/uk/marki-avto/jaguar-uk/
+File Name: C:\Users\user\Desktop\car-rent.ua\uk\marki-avto\jaguar-uk\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/uk/marki-avto/jeep-uk/
+File Name: C:\Users\user\Desktop\car-rent.ua\uk\marki-avto\jeep-uk\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/uk/marki-avto/kia-ua/
+File Name: C:\Users\user\Desktop\car-rent.ua\uk\marki-avto\kia-ua\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/uk/marki-avto/lexus-uk/
+File Name: C:\Users\user\Desktop\car-rent.ua\uk\marki-avto\lexus-uk\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/uk/marki-avto/maserati-uk/
+File Name: C:\Users\user\Desktop\car-rent.ua\uk\marki-avto\maserati-uk\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/uk/marki-avto/mazda-uk/
+File Name: C:\Users\user\Desktop\car-rent.ua\uk\marki-avto\mazda-uk\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/uk/marki-avto/mercedes-ua/
+File Name: C:\Users\user\Desktop\car-rent.ua\uk\marki-avto\mercedes-ua\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/uk/marki-avto/mitsubishi-uk/
+File Name: C:\Users\user\Desktop\car-rent.ua\uk\marki-avto\mitsubishi-uk\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/uk/marki-avto/nissan-ua/
+File Name: C:\Users\user\Desktop\car-rent.ua\uk\marki-avto\nissan-ua\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/uk/marki-avto/opel-uk/
+File Name: C:\Users\user\Desktop\car-rent.ua\uk\marki-avto\opel-uk\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/uk/marki-avto/tesla-ua/
+File Name: C:\Users\user\Desktop\car-rent.ua\uk\marki-avto\tesla-ua\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/uk/marki-avto/toyota-ua/
+File Name: C:\Users\user\Desktop\car-rent.ua\uk\marki-avto\toyota-ua\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/uk/marki-avto/volkswagen-ua/
+File Name: C:\Users\user\Desktop\car-rent.ua\uk\marki-avto\volkswagen-ua\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/uk/marki-avto/volvo-uk/
+File Name: C:\Users\user\Desktop\car-rent.ua\uk\marki-avto\volvo-uk\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/uk/posluhy/
+File Name: C:\Users\user\Desktop\car-rent.ua\uk\posluhy\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/uk/posluhy/uslovyya-arendy-s-vykupom/
+File Name: C:\Users\user\Desktop\car-rent.ua\uk\posluhy\uslovyya-arendy-s-vykupom\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/uk/product-category/chernivtsi/
+File Name: C:\Users\user\Desktop\car-rent.ua\uk\product-category\chernivtsi\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/uk/product-category/dnipro/
+File Name: C:\Users\user\Desktop\car-rent.ua\uk\product-category\dnipro\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/uk/product-category/harkov-uk/
+File Name: C:\Users\user\Desktop\car-rent.ua\uk\product-category\harkov-uk\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/uk/product-category/ivano-frankivsk/
+File Name: C:\Users\user\Desktop\car-rent.ua\uk\product-category\ivano-frankivsk\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/uk/product-category/kyiv/
+File Name: C:\Users\user\Desktop\car-rent.ua\uk\product-category\kyiv\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/uk/product-category/lviv/
+File Name: C:\Users\user\Desktop\car-rent.ua\uk\product-category\lviv\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/uk/product-category/odesa/
+File Name: C:\Users\user\Desktop\car-rent.ua\uk\product-category\odesa\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/uk/product-category/orenda-avto-z-pravom-vikupu/
+File Name: C:\Users\user\Desktop\car-rent.ua\uk\product-category\orenda-avto-z-pravom-vikupu\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/uk/product-category/ternopil/
+File Name: C:\Users\user\Desktop\car-rent.ua\uk\product-category\ternopil\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/uk/product-category/vinnytsya/
+File Name: C:\Users\user\Desktop\car-rent.ua\uk\product-category\vinnytsya\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/uk/product-category/zhytomyr/
+File Name: C:\Users\user\Desktop\car-rent.ua\uk\product-category\zhytomyr\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/uk/product/ford-focus-2/
+File Name: C:\Users\user\Desktop\car-rent.ua\uk\product\ford-focus-2\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/uk/product/ford-focus-5/
+File Name: C:\Users\user\Desktop\car-rent.ua\uk\product\ford-focus-5\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/uk/product/ford-kuga-2/
+File Name: C:\Users\user\Desktop\car-rent.ua\uk\product\ford-kuga-2\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/uk/product/honda-civic-2/
+File Name: C:\Users\user\Desktop\car-rent.ua\uk\product\honda-civic-2\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/uk/product/honda-civic-coupe-2/
+File Name: C:\Users\user\Desktop\car-rent.ua\uk\product\honda-civic-coupe-2\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/uk/product/mazda-3-touring-2/
+File Name: C:\Users\user\Desktop\car-rent.ua\uk\product\mazda-3-touring-2\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/uk/product/opel-astra-2/
+File Name: C:\Users\user\Desktop\car-rent.ua\uk\product\opel-astra-2\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/uk/product/renault-logan-2/
+File Name: C:\Users\user\Desktop\car-rent.ua\uk\product\renault-logan-2\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/uk/product/volkswagen-jetta-s-r-line-2/
+File Name: C:\Users\user\Desktop\car-rent.ua\uk\product\volkswagen-jetta-s-r-line-2\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/uk/shop-2/
+File Name: C:\Users\user\Desktop\car-rent.ua\uk\shop-2\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/uk/vidguky-nashyh-klientiv/
+File Name: C:\Users\user\Desktop\car-rent.ua\uk\vidguky-nashyh-klientiv\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/usloviya-arendy/
+File Name: C:\Users\user\Desktop\car-rent.ua\usloviya-arendy\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/uslugi/
+File Name: C:\Users\user\Desktop\car-rent.ua\uslugi\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/uslugi/arenda-avto-bez-zaloga/
+File Name: C:\Users\user\Desktop\car-rent.ua\uslugi\arenda-avto-bez-zaloga\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/uslugi/arenda-avto-gumanitarnyh-organizaczij-i-fondov-na-vygodnyh-usloviyah/
+File Name: C:\Users\user\Desktop\car-rent.ua\uslugi\arenda-avto-gumanitarnyh-organizaczij-i-fondov-na-vygodnyh-usloviyah\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/uslugi/arenda-avto-na-svadbu/
+File Name: C:\Users\user\Desktop\car-rent.ua\uslugi\arenda-avto-na-svadbu\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/uslugi/arenda-avto-s-vyezdom-za-graniczu/
+File Name: C:\Users\user\Desktop\car-rent.ua\uslugi\arenda-avto-s-vyezdom-za-graniczu\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/uslugi/arenda-gps-navigatora/
+File Name: C:\Users\user\Desktop\car-rent.ua\uslugi\arenda-gps-navigatora\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/uslugi/lichnyy-menedzher-24-7/
+File Name: C:\Users\user\Desktop\car-rent.ua\uslugi\lichnyy-menedzher-24-7\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/uslugi/podmena-avto-spasenie-dlya-voditelej-v-sluchae-polomki-sobstvennogo-avtomobilya/
+File Name: C:\Users\user\Desktop\car-rent.ua\uslugi\podmena-avto-spasenie-dlya-voditelej-v-sluchae-polomki-sobstvennogo-avtomobilya\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/uslugi/polnoe-strahovanie-avto-ot-povrezhdenij/
+File Name: C:\Users\user\Desktop\car-rent.ua\uslugi\polnoe-strahovanie-avto-ot-povrezhdenij\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/uslugi/posutochnaya-arenda-avto/
+File Name: C:\Users\user\Desktop\car-rent.ua\uslugi\posutochnaya-arenda-avto\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/uslugi/predostavlenie-detskogo-kresla-pri-neobhodimosti-besplatno/
+File Name: C:\Users\user\Desktop\car-rent.ua\uslugi\predostavlenie-detskogo-kresla-pri-neobhodimosti-besplatno\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/uslugi/sdaj-svoyo-avto-v-arendu-poluchaj-ot-1000-v-mes/
+File Name: C:\Users\user\Desktop\car-rent.ua\uslugi\sdaj-svoyo-avto-v-arendu-poluchaj-ot-1000-v-mes\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/uslugi/usloviya-arendy-s-vykupom/
+File Name: C:\Users\user\Desktop\car-rent.ua\uslugi\usloviya-arendy-s-vykupom\index.htm
+Content Type: text/html
+
+Uri: https://car-rent.ua/wp-content/litespeed/css/47faa6002c8c2e93be4b63bfc518aada.css?ver=c11e3
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\litespeed\css\47faa6002c8c2e93be4b63bfc518aada.css
+Content Type: text/css
+
+Uri: https://car-rent.ua/wp-content/litespeed/css/5adaca4ba1227d0352f74e64bd16109a.css?ver=c11e3
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\litespeed\css\5adaca4ba1227d0352f74e64bd16109a.css
+Content Type: text/css
+
+Uri: https://car-rent.ua/wp-content/plugins/cf7-phone-mask-field/assets/js/jquery.maskedinput.js?ver=1.4
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\plugins\cf7-phone-mask-field\assets\js\jquery.maskedinput.js
+Content Type: application/javascript
+
+Uri: https://car-rent.ua/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.7.6
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\plugins\contact-form-7\includes\js\index.js
+Content Type: application/javascript
+
+Uri: https://car-rent.ua/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.7.6
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\plugins\contact-form-7\includes\swv\js\index.js
+Content Type: application/javascript
+
+Uri: https://car-rent.ua/wp-content/plugins/easy-utm-tracking-with-contact-form-7/js/ucf7_scripts.js?ver=version
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\plugins\easy-utm-tracking-with-contact-form-7\js\ucf7_scripts.js
+Content Type: application/javascript
+
+Uri: https://car-rent.ua/wp-content/plugins/foobox-image-lightbox/free/js/foobox.free.min.js?ver=2.7.25
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\plugins\foobox-image-lightbox\free\js\foobox.free.min.js
+Content Type: application/javascript
+
+Uri: https://car-rent.ua/wp-content/plugins/litespeed-cache/assets/js/webfontloader.min.js
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\plugins\litespeed-cache\assets\js\webfontloader.min.js
+Content Type: application/javascript
+
+Uri: https://car-rent.ua/wp-content/plugins/load-more-products-for-woocommerce/berocket/assets/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\plugins\load-more-products-for-woocommerce\berocket\assets\fonts\fontawesome-webfont.ttf
+Content Type: application/octet-stream
+
+Uri: https://car-rent.ua/wp-content/plugins/load-more-products-for-woocommerce/berocket/assets/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\plugins\load-more-products-for-woocommerce\berocket\assets\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://car-rent.ua/wp-content/plugins/load-more-products-for-woocommerce/berocket/assets/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\plugins\load-more-products-for-woocommerce\berocket\assets\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://car-rent.ua/wp-content/plugins/woo-poly-integration/public/js/Cart.min.js?ver=1.5.0
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\plugins\woo-poly-integration\public\js\Cart.min.js
+Content Type: application/javascript
+
+Uri: https://car-rent.ua/wp-content/plugins/woocommerce-products-filter/ext/image/js/html_types/image.js?ver=3.3.3
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\plugins\woocommerce-products-filter\ext\image\js\html_types\image.js
+Content Type: application/javascript
+
+Uri: https://car-rent.ua/wp-content/plugins/woocommerce-products-filter/ext/meta_filter/html_types/slider/js/slider.js?ver=3.3.3
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\plugins\woocommerce-products-filter\ext\meta_filter\html_types\slider\js\slider.js
+Content Type: application/javascript
+
+Uri: https://car-rent.ua/wp-content/plugins/woocommerce-products-filter/ext/slider/js/html_types/slider.js?ver=3.3.3
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\plugins\woocommerce-products-filter\ext\slider\js\html_types\slider.js
+Content Type: application/javascript
+
+Uri: https://car-rent.ua/wp-content/plugins/woocommerce-products-filter/img/autoshow_button.png
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\plugins\woocommerce-products-filter\img\autoshow_button.png
+Content Type: image/png
+
+Uri: https://car-rent.ua/wp-content/plugins/woocommerce-products-filter/img/delete.png
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\plugins\woocommerce-products-filter\img\delete.png
+Content Type: image/png
+
+Uri: https://car-rent.ua/wp-content/plugins/woocommerce-products-filter/img/minus2.png
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\plugins\woocommerce-products-filter\img\minus2.png
+Content Type: image/png
+
+Uri: https://car-rent.ua/wp-content/plugins/woocommerce-products-filter/img/plus2.png
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\plugins\woocommerce-products-filter\img\plus2.png
+Content Type: image/png
+
+Uri: https://car-rent.ua/wp-content/plugins/woocommerce-products-filter/js/chosen/chosen-sprite.png
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\plugins\woocommerce-products-filter\js\chosen\chosen-sprite.png
+Content Type: image/png
+
+Uri: https://car-rent.ua/wp-content/plugins/woocommerce-products-filter/js/chosen/chosen-sprite@2x.png
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\plugins\woocommerce-products-filter\js\chosen\chosen-sprite@2x.png
+Content Type: image/png
+
+Uri: https://car-rent.ua/wp-content/plugins/woocommerce-products-filter/js/chosen/chosen.jquery.js?ver=3.3.3
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\plugins\woocommerce-products-filter\js\chosen\chosen.jquery.js
+Content Type: application/javascript
+
+Uri: https://car-rent.ua/wp-content/plugins/woocommerce-products-filter/js/front.js?ver=3.3.3
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\plugins\woocommerce-products-filter\js\front.js
+Content Type: application/javascript
+
+Uri: https://car-rent.ua/wp-content/plugins/woocommerce-products-filter/js/html_types/checkbox.js?ver=3.3.3
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\plugins\woocommerce-products-filter\js\html_types\checkbox.js
+Content Type: application/javascript
+
+Uri: https://car-rent.ua/wp-content/plugins/woocommerce-products-filter/js/html_types/mselect.js?ver=3.3.3
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\plugins\woocommerce-products-filter\js\html_types\mselect.js
+Content Type: application/javascript
+
+Uri: https://car-rent.ua/wp-content/plugins/woocommerce-products-filter/js/html_types/radio.js?ver=3.3.3
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\plugins\woocommerce-products-filter\js\html_types\radio.js
+Content Type: application/javascript
+
+Uri: https://car-rent.ua/wp-content/plugins/woocommerce-products-filter/js/html_types/select.js?ver=3.3.3
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\plugins\woocommerce-products-filter\js\html_types\select.js
+Content Type: application/javascript
+
+Uri: https://car-rent.ua/wp-content/plugins/woocommerce-products-filter/js/ion.range-slider/js/ion.rangeSlider.min.js?ver=3.3.3
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\plugins\woocommerce-products-filter\js\ion.range-slider\js\ion.rangeSlider.min.js
+Content Type: application/javascript
+
+Uri: https://car-rent.ua/wp-content/plugins/woocommerce-products-filter/js/tooltip/js/tooltipster.bundle.min.js?ver=3.3.3
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\plugins\woocommerce-products-filter\js\tooltip\js\tooltipster.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://car-rent.ua/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=7.7.0
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\plugins\woocommerce\assets\js\frontend\add-to-cart.min.js
+Content Type: application/javascript
+
+Uri: https://car-rent.ua/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=7.7.0
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\plugins\woocommerce\assets\js\frontend\woocommerce.min.js
+Content Type: application/javascript
+
+Uri: https://car-rent.ua/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.7.7.0
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\plugins\woocommerce\assets\js\jquery-blockui\jquery.blockUI.min.js
+Content Type: application/javascript
+
+Uri: https://car-rent.ua/wp-content/plugins/woocommerce/assets/js/jquery-cookie/jquery.cookie.min.js?ver=1.4.1-wc.7.7.0
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\plugins\woocommerce\assets\js\jquery-cookie\jquery.cookie.min.js
+Content Type: application/javascript
+
+Uri: https://car-rent.ua/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.7.7.0
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\plugins\woocommerce\assets\js\js-cookie\js.cookie.min.js
+Content Type: application/javascript
+
+Uri: https://car-rent.ua/wp-content/plugins/wpcf7-redirect/build/js/wpcf7r-fe.js?ver=1.1
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\plugins\wpcf7-redirect\build\js\wpcf7r-fe.js
+Content Type: application/javascript
+
+Uri: https://car-rent.ua/wp-content/themes/somyh/css/ajax-loader.gif
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\themes\somyh\css\ajax-loader.gif
+Content Type: image/gif
+
+Uri: https://car-rent.ua/wp-content/themes/somyh/fonts/Gilroy-Black.eot
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\themes\somyh\fonts\Gilroy-Black.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://car-rent.ua/wp-content/themes/somyh/fonts/Gilroy-Black.ttf
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\themes\somyh\fonts\Gilroy-Black.ttf
+Content Type: application/octet-stream
+
+Uri: https://car-rent.ua/wp-content/themes/somyh/fonts/Gilroy-Black.woff
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\themes\somyh\fonts\Gilroy-Black.woff
+Content Type: font/woff
+
+Uri: https://car-rent.ua/wp-content/themes/somyh/fonts/Gilroy-Bold.eot
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\themes\somyh\fonts\Gilroy-Bold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://car-rent.ua/wp-content/themes/somyh/fonts/Gilroy-Bold.ttf
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\themes\somyh\fonts\Gilroy-Bold.ttf
+Content Type: application/octet-stream
+
+Uri: https://car-rent.ua/wp-content/themes/somyh/fonts/Gilroy-Bold.woff
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\themes\somyh\fonts\Gilroy-Bold.woff
+Content Type: font/woff
+
+Uri: https://car-rent.ua/wp-content/themes/somyh/fonts/Gilroy-ExtraBold.eot
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\themes\somyh\fonts\Gilroy-ExtraBold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://car-rent.ua/wp-content/themes/somyh/fonts/Gilroy-ExtraBold.ttf
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\themes\somyh\fonts\Gilroy-ExtraBold.ttf
+Content Type: application/octet-stream
+
+Uri: https://car-rent.ua/wp-content/themes/somyh/fonts/Gilroy-ExtraBold.woff
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\themes\somyh\fonts\Gilroy-ExtraBold.woff
+Content Type: font/woff
+
+Uri: https://car-rent.ua/wp-content/themes/somyh/fonts/Gilroy-Medium.eot
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\themes\somyh\fonts\Gilroy-Medium.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://car-rent.ua/wp-content/themes/somyh/fonts/Gilroy-Medium.ttf
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\themes\somyh\fonts\Gilroy-Medium.ttf
+Content Type: application/octet-stream
+
+Uri: https://car-rent.ua/wp-content/themes/somyh/fonts/Gilroy-Medium.woff
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\themes\somyh\fonts\Gilroy-Medium.woff
+Content Type: font/woff
+
+Uri: https://car-rent.ua/wp-content/themes/somyh/fonts/Gilroy-Regular.eot
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\themes\somyh\fonts\Gilroy-Regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://car-rent.ua/wp-content/themes/somyh/fonts/Gilroy-Regular.ttf
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\themes\somyh\fonts\Gilroy-Regular.ttf
+Content Type: application/octet-stream
+
+Uri: https://car-rent.ua/wp-content/themes/somyh/fonts/Gilroy-Regular.woff
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\themes\somyh\fonts\Gilroy-Regular.woff
+Content Type: font/woff
+
+Uri: https://car-rent.ua/wp-content/themes/somyh/fonts/Gilroy-SemiBold.eot
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\themes\somyh\fonts\Gilroy-SemiBold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://car-rent.ua/wp-content/themes/somyh/fonts/Gilroy-SemiBold.ttf
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\themes\somyh\fonts\Gilroy-SemiBold.ttf
+Content Type: application/octet-stream
+
+Uri: https://car-rent.ua/wp-content/themes/somyh/fonts/Gilroy-SemiBold.woff
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\themes\somyh\fonts\Gilroy-SemiBold.woff
+Content Type: font/woff
+
+Uri: https://car-rent.ua/wp-content/themes/somyh/fonts/Gilroy-Thin.eot
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\themes\somyh\fonts\Gilroy-Thin.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://car-rent.ua/wp-content/themes/somyh/fonts/Gilroy-Thin.ttf
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\themes\somyh\fonts\Gilroy-Thin.ttf
+Content Type: application/octet-stream
+
+Uri: https://car-rent.ua/wp-content/themes/somyh/fonts/Gilroy-Thin.woff
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\themes\somyh\fonts\Gilroy-Thin.woff
+Content Type: font/woff
+
+Uri: https://car-rent.ua/wp-content/themes/somyh/fonts/SFUIDisplay-Heavy.eot
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\themes\somyh\fonts\SFUIDisplay-Heavy.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://car-rent.ua/wp-content/themes/somyh/fonts/SFUIDisplay-Heavy.ttf
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\themes\somyh\fonts\SFUIDisplay-Heavy.ttf
+Content Type: application/octet-stream
+
+Uri: https://car-rent.ua/wp-content/themes/somyh/fonts/SFUIDisplay-Heavy.woff
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\themes\somyh\fonts\SFUIDisplay-Heavy.woff
+Content Type: font/woff
+
+Uri: https://car-rent.ua/wp-content/themes/somyh/fonts/SFUIDisplay-Thin.eot
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\themes\somyh\fonts\SFUIDisplay-Thin.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://car-rent.ua/wp-content/themes/somyh/fonts/SFUIDisplay-Thin.ttf
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\themes\somyh\fonts\SFUIDisplay-Thin.ttf
+Content Type: application/octet-stream
+
+Uri: https://car-rent.ua/wp-content/themes/somyh/fonts/SFUIDisplay-Thin.woff
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\themes\somyh\fonts\SFUIDisplay-Thin.woff
+Content Type: font/woff
+
+Uri: https://car-rent.ua/wp-content/themes/somyh/img/arrow-down.png
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\themes\somyh\img\arrow-down.png
+Content Type: image/png
+
+Uri: https://car-rent.ua/wp-content/themes/somyh/img/arrow-next.png
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\themes\somyh\img\arrow-next.png
+Content Type: image/png
+
+Uri: https://car-rent.ua/wp-content/themes/somyh/img/arrow-prev.png
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\themes\somyh\img\arrow-prev.png
+Content Type: image/png
+
+Uri: https://car-rent.ua/wp-content/themes/somyh/img/arrow-top.png
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\themes\somyh\img\arrow-top.png
+Content Type: image/png
+
+Uri: https://car-rent.ua/wp-content/themes/somyh/img/arrowDown.svg
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\themes\somyh\img\arrowDown.svg
+Content Type: image/svg+xml
+
+Uri: https://car-rent.ua/wp-content/themes/somyh/img/book-me.png
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\themes\somyh\img\book-me.png
+Content Type: image/png
+
+Uri: https://car-rent.ua/wp-content/themes/somyh/img/calendaIcon.svg
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\themes\somyh\img\calendaIcon.svg
+Content Type: image/svg+xml
+
+Uri: https://car-rent.ua/wp-content/themes/somyh/img/callme-img.png
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\themes\somyh\img\callme-img.png
+Content Type: image/png
+
+Uri: https://car-rent.ua/wp-content/themes/somyh/img/cancel-black.png
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\themes\somyh\img\cancel-black.png
+Content Type: image/png
+
+Uri: https://car-rent.ua/wp-content/themes/somyh/img/cancel.png
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\themes\somyh\img\cancel.png
+Content Type: image/png
+
+Uri: https://car-rent.ua/wp-content/themes/somyh/img/car_rent_logo.png
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\themes\somyh\img\car_rent_logo.png
+Content Type: image/png
+
+Uri: https://car-rent.ua/wp-content/themes/somyh/img/consl-ico.png
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\themes\somyh\img\consl-ico.png
+Content Type: image/png
+
+Uri: https://car-rent.ua/wp-content/themes/somyh/img/email-ico.png
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\themes\somyh\img\email-ico.png
+Content Type: image/png
+
+Uri: https://car-rent.ua/wp-content/themes/somyh/img/FB-logo.svg
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\themes\somyh\img\FB-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://car-rent.ua/wp-content/themes/somyh/img/filter-ico.png
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\themes\somyh\img\filter-ico.png
+Content Type: image/png
+
+Uri: https://car-rent.ua/wp-content/themes/somyh/img/home-ico.png
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\themes\somyh\img\home-ico.png
+Content Type: image/png
+
+Uri: https://car-rent.ua/wp-content/themes/somyh/img/icons/car-door.svg
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\themes\somyh\img\icons\car-door.svg
+Content Type: image/svg+xml
+
+Uri: https://car-rent.ua/wp-content/themes/somyh/img/icons/snowflake.svg
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\themes\somyh\img\icons\snowflake.svg
+Content Type: image/svg+xml
+
+Uri: https://car-rent.ua/wp-content/themes/somyh/img/icons/trunk.svg
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\themes\somyh\img\icons\trunk.svg
+Content Type: image/svg+xml
+
+Uri: https://car-rent.ua/wp-content/themes/somyh/img/inst.png
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\themes\somyh\img\inst.png
+Content Type: image/png
+
+Uri: https://car-rent.ua/wp-content/themes/somyh/img/Insta-logo.svg
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\themes\somyh\img\Insta-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://car-rent.ua/wp-content/themes/somyh/img/loadmore-ico.png
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\themes\somyh\img\loadmore-ico.png
+Content Type: image/png
+
+Uri: https://car-rent.ua/wp-content/themes/somyh/img/loc-ico.png
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\themes\somyh\img\loc-ico.png
+Content Type: image/png
+
+Uri: https://car-rent.ua/wp-content/themes/somyh/img/loupespec.png
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\themes\somyh\img\loupespec.png
+Content Type: image/png
+
+Uri: https://car-rent.ua/wp-content/themes/somyh/img/magnifier.png
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\themes\somyh\img\magnifier.png
+Content Type: image/png
+
+Uri: https://car-rent.ua/wp-content/themes/somyh/img/mobile-alt-solid.svg
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\themes\somyh\img\mobile-alt-solid.svg
+Content Type: image/svg+xml
+
+Uri: https://car-rent.ua/wp-content/themes/somyh/img/park-auto.png
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\themes\somyh\img\park-auto.png
+Content Type: image/png
+
+Uri: https://car-rent.ua/wp-content/themes/somyh/img/sort.png
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\themes\somyh\img\sort.png
+Content Type: image/png
+
+Uri: https://car-rent.ua/wp-content/themes/somyh/img/specificationCarIcon5.svg
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\themes\somyh\img\specificationCarIcon5.svg
+Content Type: image/svg+xml
+
+Uri: https://car-rent.ua/wp-content/themes/somyh/img/tel-ico.png
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\themes\somyh\img\tel-ico.png
+Content Type: image/png
+
+Uri: https://car-rent.ua/wp-content/themes/somyh/img/term-rent-ico.png
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\themes\somyh\img\term-rent-ico.png
+Content Type: image/png
+
+Uri: https://car-rent.ua/wp-content/themes/somyh/img/youtube-ico.png
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\themes\somyh\img\youtube-ico.png
+Content Type: image/png
+
+Uri: https://car-rent.ua/wp-content/themes/somyh/js/flickity.pkgd.min.js
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\themes\somyh\js\flickity.pkgd.min.js
+Content Type: application/javascript
+
+Uri: https://car-rent.ua/wp-content/themes/somyh/js/ion.rangeSlider.min.js
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\themes\somyh\js\ion.rangeSlider.min.js
+Content Type: application/javascript
+
+Uri: https://car-rent.ua/wp-content/themes/somyh/js/jquery-3.4.1.min.js
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\themes\somyh\js\jquery-3.4.1.min.js
+Content Type: application/javascript
+
+Uri: https://car-rent.ua/wp-content/themes/somyh/js/jquery.beefup.min.js
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\themes\somyh\js\jquery.beefup.min.js
+Content Type: application/javascript
+
+Uri: https://car-rent.ua/wp-content/themes/somyh/js/jquery.fancybox.min.js
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\themes\somyh\js\jquery.fancybox.min.js
+Content Type: application/javascript
+
+Uri: https://car-rent.ua/wp-content/themes/somyh/js/jquery.formstyler.js
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\themes\somyh\js\jquery.formstyler.js
+Content Type: application/javascript
+
+Uri: https://car-rent.ua/wp-content/themes/somyh/js/libs.min.js
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\themes\somyh\js\libs.min.js
+Content Type: application/javascript
+
+Uri: https://car-rent.ua/wp-content/themes/somyh/js/main.js
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\themes\somyh\js\main.js
+Content Type: application/javascript
+
+Uri: https://car-rent.ua/wp-content/themes/somyh/js/slick.min.js
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\themes\somyh\js\slick.min.js
+Content Type: application/javascript
+
+Uri: https://car-rent.ua/wp-content/uploads/2021/03/cropped-car_rent_logo-1-180x180.png
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\uploads\2021\03\cropped-car_rent_logo-1-180x180.png
+Content Type: image/png
+
+Uri: https://car-rent.ua/wp-content/uploads/2021/03/cropped-car_rent_logo-1-192x192.png
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\uploads\2021\03\cropped-car_rent_logo-1-192x192.png
+Content Type: image/png
+
+Uri: https://car-rent.ua/wp-content/uploads/2021/03/cropped-car_rent_logo-1-32x32.png
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\uploads\2021\03\cropped-car_rent_logo-1-32x32.png
+Content Type: image/png
+
+Uri: https://car-rent.ua/wp-content/uploads/2021/04/bmw.jpg
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\uploads\2021\04\bmw.jpg
+Content Type: image/jpeg
+
+Uri: https://car-rent.ua/wp-content/uploads/2021/04/nissan_logo_2.jpg
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\uploads\2021\04\nissan_logo_2.jpg
+Content Type: image/jpeg
+
+Uri: https://car-rent.ua/wp-content/uploads/2021/04/tesla-motors-logo.jpg
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\uploads\2021\04\tesla-motors-logo.jpg
+Content Type: image/jpeg
+
+Uri: https://car-rent.ua/wp-content/uploads/2021/07/car-key.png
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\uploads\2021\07\car-key.png
+Content Type: image/png
+
+Uri: https://car-rent.ua/wp-content/uploads/2021/07/car.png
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\uploads\2021\07\car.png
+Content Type: image/png
+
+Uri: https://car-rent.ua/wp-content/uploads/2021/07/manager.png
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\uploads\2021\07\manager.png
+Content Type: image/png
+
+Uri: https://car-rent.ua/wp-content/uploads/2021/07/steering-wheel.png
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\uploads\2021\07\steering-wheel.png
+Content Type: image/png
+
+Uri: https://car-rent.ua/wp-content/uploads/2021/08/partner-2-1.jpg
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\uploads\2021\08\partner-2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://car-rent.ua/wp-content/uploads/2021/08/partner-4.jpg
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\uploads\2021\08\partner-4.jpg
+Content Type: image/jpeg
+
+Uri: https://car-rent.ua/wp-content/uploads/2021/08/partner-5.jpg
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\uploads\2021\08\partner-5.jpg
+Content Type: image/jpeg
+
+Uri: https://car-rent.ua/wp-content/uploads/2021/08/partner-6.jpg
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\uploads\2021\08\partner-6.jpg
+Content Type: image/jpeg
+
+Uri: https://car-rent.ua/wp-content/uploads/2021/09/ford-1.jpg
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\uploads\2021\09\ford-1.jpg
+Content Type: image/jpeg
+
+Uri: https://car-rent.ua/wp-content/uploads/2021/09/honda.jpg
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\uploads\2021\09\honda.jpg
+Content Type: image/jpeg
+
+Uri: https://car-rent.ua/wp-content/uploads/2021/09/o-nas-car-nazda.jpg
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\uploads\2021\09\o-nas-car-nazda.jpg
+Content Type: image/jpeg
+
+Uri: https://car-rent.ua/wp-content/uploads/2021/09/otzivi-bg-1.jpg
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\uploads\2021\09\otzivi-bg-1.jpg
+Content Type: image/jpeg
+
+Uri: https://car-rent.ua/wp-content/uploads/2021/09/otzivi-bg.jpg
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\uploads\2021\09\otzivi-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://car-rent.ua/wp-content/uploads/2021/09/preimushesta-bg-1.jpg
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\uploads\2021\09\preimushesta-bg-1.jpg
+Content Type: image/jpeg
+
+Uri: https://car-rent.ua/wp-content/uploads/2021/09/preimushesta-bg.jpg
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\uploads\2021\09\preimushesta-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://car-rent.ua/wp-content/uploads/2021/09/review-1-1.jpg
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\uploads\2021\09\review-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://car-rent.ua/wp-content/uploads/2021/09/review-1.jpg
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\uploads\2021\09\review-1.jpg
+Content Type: image/jpeg
+
+Uri: https://car-rent.ua/wp-content/uploads/2021/09/review-2-1.jpg
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\uploads\2021\09\review-2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://car-rent.ua/wp-content/uploads/2021/09/review-2.jpg
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\uploads\2021\09\review-2.jpg
+Content Type: image/jpeg
+
+Uri: https://car-rent.ua/wp-content/uploads/2021/09/review-3-1.jpg
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\uploads\2021\09\review-3-1.jpg
+Content Type: image/jpeg
+
+Uri: https://car-rent.ua/wp-content/uploads/2021/09/review-3.jpg
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\uploads\2021\09\review-3.jpg
+Content Type: image/jpeg
+
+Uri: https://car-rent.ua/wp-content/uploads/2021/09/review-4-1.jpg
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\uploads\2021\09\review-4-1.jpg
+Content Type: image/jpeg
+
+Uri: https://car-rent.ua/wp-content/uploads/2021/09/review-4.jpg
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\uploads\2021\09\review-4.jpg
+Content Type: image/jpeg
+
+Uri: https://car-rent.ua/wp-content/uploads/2021/09/uslugi-bg-mob.jpg
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\uploads\2021\09\uslugi-bg-mob.jpg
+Content Type: image/jpeg
+
+Uri: https://car-rent.ua/wp-content/uploads/2021/09/uslugi-bg.jpg
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\uploads\2021\09\uslugi-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://car-rent.ua/wp-content/uploads/2021/10/img_1614-1.jpg
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\uploads\2021\10\img_1614-1.jpg
+Content Type: image/jpeg
+
+Uri: https://car-rent.ua/wp-content/uploads/2021/10/img_1614.jpg
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\uploads\2021\10\img_1614.jpg
+Content Type: image/jpeg
+
+Uri: https://car-rent.ua/wp-content/uploads/2021/10/img_5165-1.jpg
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\uploads\2021\10\img_5165-1.jpg
+Content Type: image/jpeg
+
+Uri: https://car-rent.ua/wp-content/uploads/2021/10/img_5165.jpg
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\uploads\2021\10\img_5165.jpg
+Content Type: image/jpeg
+
+Uri: https://car-rent.ua/wp-content/uploads/2021/10/mitsubishi.jpg
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\uploads\2021\10\mitsubishi.jpg
+Content Type: image/jpeg
+
+Uri: https://car-rent.ua/wp-content/uploads/2022/01/img_4227-1.jpg
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\uploads\2022\01\img_4227-1.jpg
+Content Type: image/jpeg
+
+Uri: https://car-rent.ua/wp-content/uploads/2022/01/img_4227.jpg
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\uploads\2022\01\img_4227.jpg
+Content Type: image/jpeg
+
+Uri: https://car-rent.ua/wp-content/uploads/2022/02/audi_1.jpg
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\uploads\2022\02\audi_1.jpg
+Content Type: image/jpeg
+
+Uri: https://car-rent.ua/wp-content/uploads/2022/02/chevrolet.jpg
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\uploads\2022\02\chevrolet.jpg
+Content Type: image/jpeg
+
+Uri: https://car-rent.ua/wp-content/uploads/2022/02/img_5614-1.jpg
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\uploads\2022\02\img_5614-1.jpg
+Content Type: image/jpeg
+
+Uri: https://car-rent.ua/wp-content/uploads/2022/02/img_5614.jpg
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\uploads\2022\02\img_5614.jpg
+Content Type: image/jpeg
+
+Uri: https://car-rent.ua/wp-content/uploads/2022/10/8-1.jpg
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\uploads\2022\10\8-1.jpg
+Content Type: image/jpeg
+
+Uri: https://car-rent.ua/wp-content/uploads/2022/10/8.jpg
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\uploads\2022\10\8.jpg
+Content Type: image/jpeg
+
+Uri: https://car-rent.ua/wp-content/uploads/2022/10/footer-car.jpg
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\uploads\2022\10\footer-car.jpg
+Content Type: image/jpeg
+
+Uri: https://car-rent.ua/wp-content/uploads/2022/12/maserati_logo-1.png
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\uploads\2022\12\maserati_logo-1.png
+Content Type: image/png
+
+Uri: https://car-rent.ua/wp-content/uploads/2023/01/jeep-logo.png
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\uploads\2023\01\jeep-logo.png
+Content Type: image/png
+
+Uri: https://car-rent.ua/wp-content/uploads/2023/01/mazda-logo.png
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\uploads\2023\01\mazda-logo.png
+Content Type: image/png
+
+Uri: https://car-rent.ua/wp-content/uploads/2023/01/photo_2023-01-20_11-53-31-1.jpg
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\uploads\2023\01\photo_2023-01-20_11-53-31-1.jpg
+Content Type: image/jpeg
+
+Uri: https://car-rent.ua/wp-content/uploads/2023/01/photo_2023-01-20_11-53-31.jpg
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\uploads\2023\01\photo_2023-01-20_11-53-31.jpg
+Content Type: image/jpeg
+
+Uri: https://car-rent.ua/wp-content/uploads/2023/01/toyota.png
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\uploads\2023\01\toyota.png
+Content Type: image/png
+
+Uri: https://car-rent.ua/wp-content/uploads/2023/04/img_0617-1-scaled.jpg
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\uploads\2023\04\img_0617-1-scaled.jpg
+Content Type: image/jpeg
+
+Uri: https://car-rent.ua/wp-content/uploads/2023/04/img_0617-2-scaled.jpg
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\uploads\2023\04\img_0617-2-scaled.jpg
+Content Type: image/jpeg
+
+Uri: https://car-rent.ua/wp-content/uploads/2023/04/infiniti.png
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\uploads\2023\04\infiniti.png
+Content Type: image/png
+
+Uri: https://car-rent.ua/wp-content/uploads/2023/05/lexus_logo.png
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\uploads\2023\05\lexus_logo.png
+Content Type: image/png
+
+Uri: https://car-rent.ua/wp-content/uploads/2023/06/ban_carent_5.jpg
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\uploads\2023\06\ban_carent_5.jpg
+Content Type: image/jpeg
+
+Uri: https://car-rent.ua/wp-content/uploads/2023/06/car-rent_main_768x1075-2.jpeg
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\uploads\2023\06\car-rent_main_768x1075-2.jpeg
+Content Type: image/jpeg
+
+Uri: https://car-rent.ua/wp-content/uploads/2023/06/opel-logo.png
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\uploads\2023\06\opel-logo.png
+Content Type: image/png
+
+Uri: https://car-rent.ua/wp-content/uploads/2023/06/volvo_logo.png
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\uploads\2023\06\volvo_logo.png
+Content Type: image/png
+
+Uri: https://car-rent.ua/wp-content/uploads/2023/07/jaguar_logo.png
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\uploads\2023\07\jaguar_logo.png
+Content Type: image/png
+
+Uri: https://car-rent.ua/wp-content/uploads/2023/08/ravon_logo.png
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\uploads\2023\08\ravon_logo.png
+Content Type: image/png
+
+Uri: https://car-rent.ua/wp-content/uploads/2023/10/daniel_jihad_salem.jpg
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\uploads\2023\10\daniel_jihad_salem.jpg
+Content Type: image/jpeg
+
+Uri: https://car-rent.ua/wp-content/uploads/2023/10/lida_lee-scaled.jpg
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\uploads\2023\10\lida_lee-scaled.jpg
+Content Type: image/jpeg
+
+Uri: https://car-rent.ua/wp-content/uploads/2023/11/123.jpeg
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\uploads\2023\11\123.jpeg
+Content Type: image/jpeg
+
+Uri: https://car-rent.ua/wp-content/uploads/2023/11/uk.svg
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\uploads\2023\11\uk.svg
+Content Type: image/svg+xml
+
+Uri: https://car-rent.ua/wp-content/uploads/2023/11/usa.svg
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-content\uploads\2023\11\usa.svg
+Content Type: image/svg+xml
+
+Uri: https://car-rent.ua/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.0
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://car-rent.ua/wp-includes/js/jquery/jquery.min.js?ver=3.6.4
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://car-rent.ua/wp-includes/wlwmanifest.xml
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: https://car-rent.ua/wp-json/
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://car-rent.ua/wp-json/oembed/1.0/embed?url=https:%2F%2Fcar-rent.ua%2F
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://car-rent.ua/wp-json/oembed/1.0/embed?url=https:%2F%2Fcar-rent.ua%2F&format=xml
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://car-rent.ua/wp-json/oembed/1.0/embed?url=https:%2F%2Fcar-rent.ua%2Fuk%2F
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://car-rent.ua/wp-json/oembed/1.0/embed?url=https:%2F%2Fcar-rent.ua%2Fuk%2F&format=xml
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://car-rent.ua/wp-json/wp/v2/pages/193
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-json\wp\v2\pages\193
+Content Type: application/json
+
+Uri: https://car-rent.ua/wp-json/wp/v2/pages/7
+File Name: C:\Users\user\Desktop\car-rent.ua\wp-json\wp\v2\pages\7
+Content Type: application/json
+
+Uri: https://car-rent.ua/xmlrpc.php?rsd
+File Name: C:\Users\user\Desktop\car-rent.ua\xmlrpc.php
+Content Type: text/xml
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.13.2/themes/base/images/ui-icons_444444_256x240.png
+File Name: C:\Users\user\Desktop\car-rent.ua\ajax\libs\jqueryui\1.13.2\themes\base\images\ui-icons_444444_256x240.png
+Content Type: image/png
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.13.2/themes/base/images/ui-icons_555555_256x240.png
+File Name: C:\Users\user\Desktop\car-rent.ua\ajax\libs\jqueryui\1.13.2\themes\base\images\ui-icons_555555_256x240.png
+Content Type: image/png
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.13.2/themes/base/images/ui-icons_777620_256x240.png
+File Name: C:\Users\user\Desktop\car-rent.ua\ajax\libs\jqueryui\1.13.2\themes\base\images\ui-icons_777620_256x240.png
+Content Type: image/png
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.13.2/themes/base/images/ui-icons_777777_256x240.png
+File Name: C:\Users\user\Desktop\car-rent.ua\ajax\libs\jqueryui\1.13.2\themes\base\images\ui-icons_777777_256x240.png
+Content Type: image/png
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.13.2/themes/base/images/ui-icons_cc0000_256x240.png
+File Name: C:\Users\user\Desktop\car-rent.ua\ajax\libs\jqueryui\1.13.2\themes\base\images\ui-icons_cc0000_256x240.png
+Content Type: image/png
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.13.2/themes/base/images/ui-icons_ffffff_256x240.png
+File Name: C:\Users\user\Desktop\car-rent.ua\ajax\libs\jqueryui\1.13.2\themes\base\images\ui-icons_ffffff_256x240.png
+Content Type: image/png
+
+Uri: https://code.jquery.com/ui/1.13.1/jquery-ui.min.js?ver=1.0.0
+File Name: C:\Users\user\Desktop\car-rent.ua\ui\1.13.1\jquery-ui.min.js
+Content Type: application/javascript
+
