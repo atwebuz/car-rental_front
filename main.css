@@ -47101,12 +47101,12 @@ li.product.lazy,
 }
 
 #slide-0 {
-    background: url(https://car-rent.ua/wp-content/uploads/2023/06/ban_carent_5.jpg) no-repeat center center/cover
+    background: url('./ajax/libs/jqueryui/1.13.2/themes/base/images/ban_carent_5.avif') no-repeat center center/cover
 }
 
 @media all and (max-width:576px) {
     #slide-0 {
-        background: url(https://car-rent.ua/wp-content/uploads/2023/06/car-rent_main_768x1075-2.jpeg) no-repeat center center/cover #000000a3;
+        background: url('./ajax/libs/jqueryui/1.13.2/themes/base/images/ban_carent_6.avif') no-repeat center center/cover #000000a3;
         background-blend-mode: darken
     }
 }
