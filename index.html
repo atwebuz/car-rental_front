@@ -144,18 +144,23 @@
     <header class="main-header">
         <div class="container container-position d-md-flex d-none">
             <div class="header-slider-form-wrapper">
-                <form id="form4" action="#">
+                <form id="form4" action="#" netlify data-netlify-honeypot="bot-field">
+                    <p style="display: none;"><label>Don’t fill this out if you're human: <input name="bot-field" /></label></p>
+                
                     <div class="form-title">Подобрать автомобиль</div>
+                
                     <div class="input-wrapper" style="display:none;">
-                        <input type="text" name="telegram_ids" required=""
-                            value="323802162,498078884,722723327,307775242,299223867">
+                        <input type="text" name="telegram_ids" required="" value="323802162,498078884,722723327,307775242,299223867">
                     </div>
+                
                     <div class="input-row">
                         <input type="text" name="Name" placeholder="Ваше Имя" required="" class="custom-input">
                     </div>
+                
                     <div class="input-row">
                         <input type="tel" name="Phone" placeholder="+998 (*" required="" class="custom-input">
                     </div>
+                
                     <div class="input-row">
                         <div class="btn-ani-wrapper">
                             <input name="podbor" type="submit" value="ОТПРАВИТЬ" class="custom-btn-green">
@@ -163,6 +168,7 @@
                         </div>
                     </div>
                 </form>
+                
             </div>
         </div>
         <div class="header-slider">
@@ -631,43 +637,27 @@
                 <p role="status" aria-live="polite" aria-atomic="true"></p>
                 <ul></ul>
             </div>
-            <form action="/#wpcf7-f6447-o5" method="post" class="wpcf7-form init" aria-label="Contact form"
-                novalidate="novalidate" data-status="init">
-                <div style="display: none;">
-                    <input type="hidden" name="_wpcf7" value="6447" />
-                    <input type="hidden" name="_wpcf7_version" value="5.7.6" />
-                    <input type="hidden" name="_wpcf7_locale" value="ru_RU" />
-                    <input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f6447-o5" />
-                    <input type="hidden" name="_wpcf7_container_post" value="0" />
-                    <input type="hidden" name="_wpcf7_posted_data_hash" value="" />
-                </div>
+            <form class="wpcf7-form init" aria-label="Contact form" novalidate="novalidate" data-status="init" netlify data-netlify-honeypot="bot-field">
+                <p style="display: none;"><label>Don’t fill this out if you're human: <input name="bot-field" /></label></p>
+            
                 <div class="input-row">
-                    <p><span class="wpcf7-form-control-wrap" data-name="Name"><input size="40"
-                                class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required custom-input"
-                                aria-required="true" aria-invalid="false" placeholder="ВАШЕ ИМЯ" value="" type="text"
-                                name="Name" /></span></p>
+                    <p><span class="wpcf7-form-control-wrap" data-name="Name"><input size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required custom-input" aria-required="true" aria-invalid="false" placeholder="ВАШЕ ИМЯ" value="" type="text" name="Name" /></span></p>
                 </div>
+            
                 <div class="input-row">
-                    <p><span class="wpcf7-form-control-wrap mask-508"><input type="tel" value="" name="mask-508"
-                                class="wpcf7-form-control wpcf7mf-mask wpcf7-mask custom-input" size="40"
-                                aria-required="" aria-invalid="" placeholder="+998 (___) ___-__-__"
-                                data-mask="+998 (___) ___-__-__" /></span></p>
+                    <p><span class="wpcf7-form-control-wrap mask-508"><input type="tel" value="" name="mask-508" class="wpcf7-form-control wpcf7mf-mask wpcf7-mask custom-input" size="40" aria-required="" aria-invalid="" placeholder="+998 (___) ___-__-__" data-mask="+998 (___) ___-__-__" /></span></p>
                 </div>
-                <input class="wpcf7-form-control wpcf7-hidden" id="hiddenInitialPayment" value="" type="hidden"
-                    name="initialPayment" />
-                <input class="wpcf7-form-control wpcf7-hidden" id="hiddenMonths" value="" type="hidden" name="months" />
-                <input class="wpcf7-form-control wpcf7-hidden" id="hiddenRateAmount" value="" type="hidden"
-                    name="rateAmount" />
-                <input class="wpcf7-form-control wpcf7-hidden" id="hiddenAuto" value="" type="hidden" name="auto" />
+            
                 <div class="input-row">
                     <div class="btn-ani-wrapper">
-                        <p><input class="wpcf7-form-control has-spinner wpcf7-submit custom-btn-green" type="submit"
-                                value="Отправить" /></p>
+                        <p><input class="wpcf7-form-control has-spinner wpcf7-submit custom-btn-green" type="submit" value="Отправить" /></p>
                     </div>
                 </div>
+            
                 <p><input type="hidden" name="wpcf7tg_sending" value="1" /></p>
                 <div class="wpcf7-response-output" aria-hidden="true"></div>
             </form>
+            
         </div>
     </div>
     <div id="buy-selected-car" class="custom-popup" style="display: none;">
