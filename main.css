@@ -16337,11 +16337,11 @@ ul.custom-list-check li:before,
     font-size: 14px
 }
 
-.what {
+.whats {
     padding: 90px 0
 }
 
-.what:after {
+.whats:after {
     z-index: 1;
     content: '';
     position: absolute;
@@ -21246,7 +21246,10 @@ li.product .woocommerce-loop-product__title {
     }
 
     .what-inner>div {
-        width: 100%
+        /* width: 100% */
+        width: 100%;
+    display: grid;
+    grid-template-columns: 1fr;
     }
 
     .what-l {
